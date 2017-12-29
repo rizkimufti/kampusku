@@ -1,5 +1,8 @@
     <!-- begin The Footer -->
     <footer class="site-footer">
+
+
+
         <div class="container">
             <div class="bottom-footer">
                 <div class="row">
@@ -19,7 +22,17 @@
 
                                     <?php endforeach ?>
 
-
+                                    <!-- Start of LiveChat (www.livechatinc.com) code -->
+                                    <script type="text/javascript">
+                                    window.__lc = window.__lc || {};
+                                    window.__lc.license = 9372155;
+                                    (function() {
+                                      var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+                                      lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+                                      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+                                    })();
+                                    </script>
+                                    <!-- End of LiveChat code -->
 
                         </ul>
 

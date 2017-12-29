@@ -1,11 +1,6 @@
 <?php
 
-/* About Author
-* Name 			:  	Agus Cahyono
-* Facebook 		:	http://facebook.com/cahyocode
-* Hp 			:	082301290429
-* Email 		: cahyo.mamen@gmail.com
-*/
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
@@ -41,7 +36,7 @@ if (defined('ENVIRONMENT'))
 		case 'development':
 			error_reporting(E_ALL);
 		break;
-	
+
 		case 'testing':
 		case 'production':
 			error_reporting(0);

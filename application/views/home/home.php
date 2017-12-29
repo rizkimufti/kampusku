@@ -224,7 +224,7 @@
                         <h4 class="widget-title"><i class="fa fa-picture-o"></i> Galeri Foto</h4>
                     </div>
                     <div class="widget-inner">
-                        <div class="gallery-small-thumbs clearfix">
+                        <div class="gallery-big-thumbs clearfix">
 
                         <?php foreach ($galeri as $g): ?>
                             <div class="thumb-small-gallery">
